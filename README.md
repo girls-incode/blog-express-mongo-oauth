@@ -2,15 +2,25 @@
 
 A blog application which uses Node.js, Express, MongoDB, Passport, Google OAuth strategy to manage the posts of a logged user.
 
+<kbd><img src="https://github.com/girls-incode/blog-express-mongo-oauth/blob/master/blog-express-mongo-oauth-login.jpg" alt="" /></kbd>
+<br/><br/>
+<kbd><img src="https://github.com/girls-incode/blog-express-mongo-oauth/blob/master/blog-express-mongo-admin-dashboard.jpg" alt="" /></kbd>
+<br/><br/>
+<kbd><img src="https://github.com/girls-incode/blog-express-mongo-oauth/blob/master/blog-express-mongo-admin-articles.jpg" alt="" /></kbd>
+<br/><br/>
+<kbd><img src="https://github.com/girls-incode/blog-express-mongo-oauth/blob/master/blog-express-mongo-admin-edit-article.jpg" alt="" /></kbd>
+<br/><br/>
+<kbd><img src="https://github.com/girls-incode/blog-express-mongo-oauth/blob/master/blog-express-mongo-admin-article.jpg" alt="" /></kbd>
+<br/><br/>
+
 ## Execute
 
 #### `npm run start`
 #### `npm run dev`
-#### `npm test
+#### `npm test`
 #### `npm build`
 
 ## Tech Stack
--
 - [x] Express
 - [x] Mongoose
 - [x] Handlebars
