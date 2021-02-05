@@ -1,0 +1,62 @@
+body {
+    font-size: 1rem;
+    background-color: white;
+}
+
+p {
+    margin: 10px 0;
+}
+
+h1, h2, h3 {
+    margin: 0;
+}
+
+h1 {
+    font-size: 1.6rem;
+}
+h2 {
+    font-size: 1.3rem;
+}
+h3 {
+    font-size: 1.1rem;
+}
+
+.login-container {
+    margin: 50px auto;
+    max-width: 400px;
+    text-align: center;
+}
+
+h1 .fas {
+    margin-right: 10px;
+}
+
+.page {
+    margin-top: 40px;
+}
+
+.fa-small {
+    font-size: 16px !important;
+}
+
+.btn-float {
+    float: left;
+    margin-right: 5px;
+}
+
+.striped .fas {
+    font-size: 16px;
+}
+
+.img-small{
+    width: 120px;
+}
+
+.user-info{
+    padding-top: 60px !important;
+}
+
+.card-body {
+    min-height: 100px;
+    margin: 10px 0;
+}
