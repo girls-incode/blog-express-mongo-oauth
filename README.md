@@ -24,6 +24,7 @@ A blog application which uses Node.js, Express, MongoDB, Passport, Google OAuth 
 - [x] Express
 - [x] Mongoose
 - [x] Handlebars
+- [x] MaterializeCSS
 - [x] Moment
 - [x] Morgan
 - [x] Passport
